@@ -128,6 +128,76 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+33189623###</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3325950####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3337637####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3339223####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3341233####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3345145####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3353707####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+3364466####</string>
 		<key>title</key>
 		<string>OnOff (VOIP)</string>
@@ -168,6 +238,76 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+3374430####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3374431####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3374432####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3374433####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3374434####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3374435####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3374436####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+337568#####</string>
 		<key>title</key>
 		<string>OnOff (VOIP)</string>
@@ -188,7 +328,107 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+3375780####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375781####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375782####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375783####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375784####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+337809#####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33162104###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33162262###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3318831####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+3318986####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3325542####</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>
@@ -268,6 +508,36 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+33263020###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33270479###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3336747####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+33376440###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
@@ -289,6 +559,16 @@
 		<string>0</string>
 		<key>number</key>
 		<string>+33376449###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33377255###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>
@@ -369,6 +649,26 @@
 		<string>0</string>
 		<key>number</key>
 		<string>+33412379###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3342310####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33424434###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>
@@ -459,6 +759,56 @@
 		<string>0</string>
 		<key>number</key>
 		<string>+33525619###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3353292####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33568489###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3359441####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33948359###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3397276####</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>

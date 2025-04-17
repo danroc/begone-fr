@@ -10,7 +10,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pyyaml>=6.0.2",
+    "requests>=2.32.3",
     "typer>=0.12.5",
+    "types-requests>=2.32.0.20250328",
 ]
 
 [project.scripts]
