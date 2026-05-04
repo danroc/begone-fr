@@ -28,6 +28,16 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+33162349###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+3318831####</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
@@ -138,6 +148,16 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+33270272###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+33270479###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
@@ -189,6 +209,16 @@
 		<string>0</string>
 		<key>number</key>
 		<string>+33377255###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33377272###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>
@@ -279,6 +309,16 @@
 		<string>0</string>
 		<key>number</key>
 		<string>+3342310####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33424262###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>
@@ -398,6 +438,16 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+33568262###</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+33568489###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
@@ -409,6 +459,16 @@
 		<string>0</string>
 		<key>number</key>
 		<string>+3359441####</string>
+		<key>title</key>
+		<string>Ubicentrex (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+33948192###</string>
 		<key>title</key>
 		<string>Ubicentrex (VOIP)</string>
 	</dict>
