@@ -498,6 +498,96 @@
 		<key>category</key>
 		<string>0</string>
 		<key>number</key>
+		<string>+3375490####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375491####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375492####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375493####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375494####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375495####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375496####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375497####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
+		<string>+3375498####</string>
+		<key>title</key>
+		<string>OnOff (VOIP)</string>
+	</dict>
+	<dict>
+		<key>addNational</key>
+		<string>true</string>
+		<key>category</key>
+		<string>0</string>
+		<key>number</key>
 		<string>+337568#####</string>
 		<key>title</key>
 		<string>OnOff (VOIP)</string>
