@@ -70,6 +70,8 @@ def fetch_number_ranges(mnemonic: str) -> list[str]:
         r.raise_for_status()
 
         data = r.json()
+        if not data["data"]:
+            raise RuntimeError(f"No number ranges returned for mnemonic {mnemonic}")
         numbers.extend(entry_to_pattern(entry) for entry in data["data"])
 
         url = data["links"]["next"]
