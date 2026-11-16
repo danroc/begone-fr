@@ -5,8 +5,23 @@ from typing import Annotated
 import requests
 import typer
 import yaml
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 app = typer.Typer()
+
+# The upstream API is slow and flaky, so retry instead of failing the whole build
+SESSION = requests.Session()
+SESSION.mount(
+    "https://",
+    HTTPAdapter(
+        max_retries=Retry(
+            total=5,
+            backoff_factor=1,
+            status_forcelist=[502, 503, 504],
+        )
+    ),
+)
 
 TagGroups = dict[str, list[dict[str, str]]]
 
@@ -66,7 +81,7 @@ def fetch_number_ranges(mnemonic: str) -> list[str]:
 
     numbers: list[str] = []
     while url:
-        r = requests.get(url, timeout=10)
+        r = SESSION.get(url, timeout=30)
         r.raise_for_status()
 
         data = r.json()
